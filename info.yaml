@@ -4,7 +4,7 @@ project:
   title:        "Grupo 11 - Display 7 Elementos"      # Project title
   author:       "Firpo, Pursals"      # Your name
   discord:      "25lucas12"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Contador"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
